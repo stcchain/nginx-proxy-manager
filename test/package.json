@@ -10,7 +10,7 @@
 		"cypress": "^9.4.1",
 		"cypress-multi-reporters": "^1.4.0",
 		"cypress-plugin-retries": "^1.5.2",
-		"eslint": "^7.6.0",
+		"eslint": "^9.0.0",
 		"eslint-plugin-align-assignments": "^1.1.2",
 		"eslint-plugin-chai-friendly": "^0.6.0",
 		"eslint-plugin-cypress": "^2.11.1",
